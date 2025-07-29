@@ -102,8 +102,8 @@ async def clone_txt(client, message, _):
                 "name": bot.first_name,
                 "token": bot_token,
                 "username": bot.username,
-                "channel": "About_badnam_xd",
-                "support": "About_badnam_xd",
+                "channel": "ganaasupport",
+                "support": "ganaasupport",
                 "premium" : False,
                 "Date" : False,
             }
