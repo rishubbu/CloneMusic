@@ -17,11 +17,11 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","oy_baby")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Spotifyofficialrebot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ganasongg_rebot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Spotify")
+BOT_NAME = getenv("BOT_NAME" , "𝐆𝐀𝐍𝐀")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Spotify")
+ASSUSERNAME = getenv("ASSUSERNAME" , "𝐆𝐀𝐍𝐀")
 # ---------------------------------------------------------
 
 
@@ -57,7 +57,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 SOURCE = getenv("SOURCE", "https://github.com/TEAMPURVI/SONALI_MUSIC")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/8092821983rishu/Chutlund",
+    "https://github.com/rishubbu/CloneMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
