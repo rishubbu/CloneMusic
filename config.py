@@ -17,11 +17,11 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","oy_baby")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "ganasongg_rebot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Spotifyofficialrebot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐆𝐀𝐍𝐀")
+BOT_NAME = getenv("BOT_NAME" , "δ ρ ο Т ί ƒ ϒ [ 𝐍ᴏ 𝐀ᴅs ]")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "𝐆𝐀𝐍𝐀")
+ASSUSERNAME = getenv("ASSUSERNAME" , "δ ρ ο Т ί ƒ ϒ [ 𝐍ᴏ 𝐀ᴅs ]")
 # ---------------------------------------------------------
 
 
