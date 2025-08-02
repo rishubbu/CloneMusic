@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","oy_baby")
+OWNER_USERNAME = getenv("OWNER_USERNAME","itzdhruv")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "Spotifyofficialrebot")
 # --------------------------------------------------------
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7649370492))
+OWNER_ID = int(getenv("OWNER_ID", 8115268811))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
